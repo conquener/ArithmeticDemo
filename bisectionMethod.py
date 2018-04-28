@@ -1,4 +1,4 @@
-import fun as fun
+# -*- coding: utf-8 -*-
 import traceback
 
 a = [];
